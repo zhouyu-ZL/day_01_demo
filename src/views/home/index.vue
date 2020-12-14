@@ -13,7 +13,7 @@
           </el-menu-item>
           <el-menu-item index="/album">
             <i class="el-icon-document"></i>
-            <span slot="title">相册管理</span>
+            <span slot="title">册相管理</span>
           </el-menu-item>
           <el-menu-item index="/shoplist">
             <i class="el-icon-setting"></i>
